@@ -8,4 +8,13 @@ This repository provides examples of what students do on the public cloud, speci
 - Tensor decomposition and genome-wide epigenome imputation
 - Genetic architecture of autism
 
+## Computer science
+
+- Comparative analysis of Hadoop with Apache Spark
+
+## Information school
+
+- Clustering large citation networks
+
+
 
